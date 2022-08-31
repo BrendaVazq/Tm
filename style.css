@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 1600px;
+    height: 1500px;
+    background: rgb(255, 255, 255);
+    margin: 0.5em auto;
+    padding: 00.5em;
+}
+
+#header {
+    height: 10%;
+    margin: 1em;
+}
+
+#nav {
+    height: 5%;
+    margin: 1em;
+}
+
+#contenido {
+    height: 70%;
+    margin: 1em;
+}
+
+#ooo {
+    height: 40%;
+    width: 45%;
+    float: right;
+    margin: 1em;
+}
+
+#comp {
+    float: right;
+}
+
+#footer {
+    height: 10%;
+    margin: 1em;
+    
+}
+
+#prot {
+    height: 96%;
+    width: 30%;
+    float: left;
+    margin: 1em;
+
+}
+#promo {
+    height: 96%;
+    width: 65%;
+    float: right;
+    margin: 1em;
+}
+
+.art {
+    height: 15%;
+    width: 94%;
+    margin: 1em;
+}
+
+.labCo {
+    background-color: rgb(34, 174, 174);
+    height: 30%;
+    width: 100%;
+    border-radius: 20px;
+    padding: 30px;
+    font-size: 25px;
+    color: white;
+}
+#RecSel {
+    width: 100%;
+    border-radius: 0% !important;
+    font-size: 50px;
+}
+
+.btn-danger {
+    border: none !important;
+    width: 100% !important;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    line-height: 2;
+
+}
+
+#Suscribirse {
+    width: 30% !important;
+    border-radius: 20px;
+}
+
+#IniciarSesion {
+    border: none;
+    background-color: white;
+    color: rgb(44, 170, 170);
+    padding-left: 50%;
+    font-size: 25px;
+}
+#CrearCuent {
+    border: none;
+    background-color: white;
+    color: rgb(44, 170, 170);
+    font-size: 25px;
+}
+
+.articulos {
+    background: yellow;
+    width: 100%;
+    height: 15%;
+    margin: 1em;
+}
+
+span {
+    width: 100%;
+    height: 20%;
+    margin: 20px;
+}
+
+#cantidad {
+    width: 20% !important;
+}
+
+#añadirCarrito {
+    background-color: rgb(67, 67, 169) !important;
+}
+.punS {
+width: 20%;
+
+}
+
+#vacante {
+    background-color: red;
+    text-align: center;
+    font-size: 30px;
+
+}
+#v {
+    text-shadow: none !important;
+    color: black !important;
+    text-decoration: underline !important;
+}
